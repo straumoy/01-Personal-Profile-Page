@@ -14,3 +14,5 @@ This profile page uses only basic HTML tags:
     <p> for text paragraphs
     <ul> and <li> for listing hobbies
     <a> for social media links
+
+Please see the Profile_Page_.png for the layout I was going for
